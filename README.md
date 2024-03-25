@@ -1,1 +1,1 @@
-# CS_BOOTCAMP
+## Coding Practice Repository (CPR)
